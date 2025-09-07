@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shaan KC</h1>
-<h3 align="center">A passionate DataAnalyst from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaan4811&label=Profile%20views&color=725137&style=flat" alt="shaan4811" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaan4811" alt="shaan4811" /></a> </p>
 
-- 🌱 I’m currently learning **Python,SQL,PowerBI,Excel,Tableau**
+- 🌱 I’m currently Exploring oppurtunities in **Saudi Arabia**
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/muhammadshaankc](https://www.kaggle.com/muhammadshaankc)
 
